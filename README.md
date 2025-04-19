@@ -64,15 +64,19 @@ print(f"Некорректных записей: {result['bad']}")
 
 ### Рекомендуется использовать виртуальное окружение:
 
-bash
-python -m venv venv
-source venv/bin/activate  # Linux/macOS
-venv\Scripts\activate     # Windows
+```
+bash  
+python -m venv venv  
+source venv/bin/activate  # Linux/macOS  
+venv\Scripts\activate     # Windows  
+```
 
 ### Запуск программы:
 
-bash
-python employee_records.py
+```
+bash  
+python employee_records.py  
+```
 
 ## Особенности реализации
 
