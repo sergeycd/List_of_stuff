@@ -58,17 +58,18 @@ print(f"Некорректных записей: {result['bad']}")
 Корректных записей: 2
 Некорректных записей: 3
 ```
-Установка и запуск
+## Установка и запуск
+
 Требуется Python 3.6+
 
-Рекомендуется использовать виртуальное окружение:
+### Рекомендуется использовать виртуальное окружение:
 
 bash
 python -m venv venv
 source venv/bin/activate  # Linux/macOS
 venv\Scripts\activate     # Windows
 
-Запуск программы:
+### Запуск программы:
 
 bash
 python employee_records.py
