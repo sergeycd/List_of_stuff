@@ -47,8 +47,8 @@ data = [
 
 result = process_people(data)
 print(f"Корректных записей: {result['good']}")
-print(f"Некорректных записей: {result['bad']}")```
-
+print(f"Некорректных записей: {result['bad']}")
+```
 
 Вывод:
 
